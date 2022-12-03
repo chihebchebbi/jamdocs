@@ -1,5 +1,5 @@
 ---
-title: Article1 
+title: How to use the MITRE PRE-ATT&CK framework to enhance your reconnaissance assessments
 date: 2018-09-15 07:42:34
 slug: Article1
 ---
