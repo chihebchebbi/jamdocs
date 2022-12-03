@@ -21,6 +21,15 @@
           "slug": "forestry-cms"
         }
       ]
+    },
+    {
+      "section": "Articles",
+      "topics": [
+        {
+          "title": "Article1",
+          "slug": "Article1"
+        }
+      ]
     }
   ]
 }
